@@ -1,0 +1,5 @@
+.allure/
+.idea/
+PageFactoryWithAllure.iml
+allure-results/
+target/
